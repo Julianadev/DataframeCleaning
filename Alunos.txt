@@ -1,0 +1,12 @@
+Escola;Professora;ID;Aluno;Nota 1;Nota 2;Nota 3;Nota 4;Faltas
+ABC;Rosiane;782707;Aline Rosa;5;10;7;7;2
+Filho;Carolina;437686;Amanda Martins;6;10;10;9;3
+ABC;Rosiane;310916;Angela Maria;8;10;7;10;5
+ABC;Carolina;760926;Carlos Moreira;10;4;7;6;2
+Filho;Rosiane;557848;Eliane Moreira;10;6;5;4;3
+ABC;Rosiane;758465;Leonardo Almeida;8;9;6;9;2
+ABC;Carolina;235215;Nicolas Pereira;1;2;2;2;3
+ABC;Rosiane;751595;Paulo Santos;9;7;10;9;0
+ABC;Carolina;760936;Raul Silva;8;10;5;10;4
+Filho;Rosiane;557858;Reinaldo Assis;8;8;8;5;5
+ABC;Carolina;758475;Eduardo Pires;8;9;8;9;1
